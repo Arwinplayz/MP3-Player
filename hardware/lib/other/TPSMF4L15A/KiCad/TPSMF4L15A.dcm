@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPSMF4L15A
+D ESD Suppressors / TVS Diodes 2kW 15V AEC-Q101 5% Uni-Directional
+K
+F https://www.mouser.com/datasheet/2/240/Littelfuse_TVS_Diode_TPSMF4L_Datasheet.pdf-952419.pdf
+$ENDCMP
+#
+#End Doc Library
